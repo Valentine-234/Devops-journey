@@ -1,4 +1,4 @@
-# 👨‍💻 Ifechukwu Valentine Achebe – DevOps Engineer in Progress 🚀
+# 👨‍💻 Valentine – DevOps Engineer in Progress 🚀
 
 Welcome to my DevOps journey! This repository documents my learning, hands-on projects, and progression through a structured 6-month roadmap to becoming a skilled DevOps Engineer.
 
@@ -64,7 +64,7 @@ Welcome to my DevOps journey! This repository documents my learning, hands-on pr
 
 ## 📫 Let’s Connect
 - 📧 iamachebe@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/yourusername) *(update with your real link)*
+- 🌐 [LinkedIn](https://linkedin.com/in/yourusername) *([)](https://www.linkedin.com/in/valentine-ifechukwu-achebe-970358293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)*
 
 ---
 
