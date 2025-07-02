@@ -7,7 +7,7 @@ Welcome to my DevOps journey! This repository documents my learning, hands-on pr
 ## 📅 DevOps Roadmap (6 Months)
 
 ### ✅ Month 1: Linux, Git & Networking
-- [x] Installed Ubuntu on UTM (Mac)
+- [✅] Installed Ubuntu on UTM (Mac)
 - [x] Mastered terminal navigation and permissions
 - [x] Practiced Git commands (init, push, branch)
 - [x] Studied basic networking and SSH
