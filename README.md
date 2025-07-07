@@ -15,7 +15,7 @@ Welcome to my DevOps journey! This repository documents my learning, hands-on pr
 ### ✅ Month 2: Bash, Python & AWS
 - [x] Wrote bash scripts (loops, conditionals)
 - [x] Practiced Python basics (functions, dicts)
-- [x] Launched EC2, created S3 buckets
+- [✅] Launched EC2, created S3 buckets
 - [x] Deployed a static site on S3
 
 ### ✅ Month 3: CI/CD & Terraform
