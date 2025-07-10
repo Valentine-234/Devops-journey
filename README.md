@@ -8,9 +8,9 @@ Welcome to my DevOps journey! This repository documents my learning, hands-on pr
 
 ### ✅ Month 1: Linux, Git & Networking
 - [✅] Installed Ubuntu on UTM (Mac)
-- [x] Mastered terminal navigation and permissions
-- [x] Practiced Git commands (init, push, branch)
-- [x] Studied basic networking and SSH
+- [✅] Mastered terminal navigation and permissions
+- [✅]Practiced Git commands (init, push, branch)
+- [✅]Studied basic networking and SSH
 
 ### ✅ Month 2: Bash, Python & AWS
 - [x] Wrote bash scripts (loops, conditionals)
